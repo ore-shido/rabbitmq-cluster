@@ -86,21 +86,3 @@ docker-compose logs -f
 3. Run producer / consumer for testing
 
 Same as in the section detailing `docker run` you can launch the consumer/producer as regular shell scripts.
-
-## Create a distributed local cluster
-
-*To be continued*
-
-## Deploying to AWS
-
-*To be continued*
-
-## Deploying to Microsoft Azure
-
-*To be continued*
-
-## Tools
-
-Very useful tool for simulating message circulation in your RabbitMQ setup.
-
-http://tryrabbitmq.com/
